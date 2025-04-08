@@ -12,3 +12,8 @@ Minh chứng:
 
 Ảnh 3:
 ![image](https://github.com/user-attachments/assets/d0373a78-e316-4f6c-a358-b1b498214a00)
+
+
+Ảnh 4:
+![image](https://github.com/user-attachments/assets/a6766cb1-b25e-4116-9294-f58f9d4bb522)
+
